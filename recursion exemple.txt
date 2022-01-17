@@ -1,0 +1,22 @@
+        static void Main(string[] args)
+        {
+
+            Search("c:\\users");
+
+        }
+        static void Search(string path)
+        {
+            string[] directory;
+            directory= Directory.GetDirectories(path,"*.*",SearchOption.TopDirectoryOnly);
+            string[] files;
+            files = Directory.GetFiles(path,"*.*",SearchOption.TopDirectoryOnly);
+            foreach (string dir in directory)
+            {
+                Console.WriteLine(dir);
+                    Search(dir);
+            }
+            foreach (string file in files)
+            {
+                Console.WriteLine(file);
+            }
+        }

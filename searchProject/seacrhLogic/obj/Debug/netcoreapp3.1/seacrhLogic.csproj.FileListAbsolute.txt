@@ -1,0 +1,9 @@
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\bin\Debug\netcoreapp3.1\seacrhLogic.deps.json
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\bin\Debug\netcoreapp3.1\seacrhLogic.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\bin\Debug\netcoreapp3.1\seacrhLogic.pdb
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\obj\Debug\netcoreapp3.1\seacrhLogic.csprojAssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\obj\Debug\netcoreapp3.1\seacrhLogic.AssemblyInfoInputs.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\obj\Debug\netcoreapp3.1\seacrhLogic.AssemblyInfo.cs
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\obj\Debug\netcoreapp3.1\seacrhLogic.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\obj\Debug\netcoreapp3.1\seacrhLogic.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\seacrhLogic\obj\Debug\netcoreapp3.1\seacrhLogic.pdb

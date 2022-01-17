@@ -1,0 +1,29 @@
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.csprojAssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.AssemblyInfoInputs.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.AssemblyInfo.cs
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\searchProject.exe
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\searchProject.deps.json
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\searchProject.runtimeconfig.json
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\searchProject.runtimeconfig.dev.json
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\searchProject.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\searchProject.pdb
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\seacrhLogic.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\seacrhLogic.pdb
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.pdb
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.genruntimeconfig.cache
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\97250\OneDrive\Desktop\SearchProject\searchProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.AssemblyInfoInputs.cache
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.AssemblyInfo.cs
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.dll
+C:\Users\97250\OneDrive\Desktop\קורס חדש ג'ון ברייס\הנחיה לפרויקט חיפוש קבצים\SearchProject\searchProject\obj\Debug\netcoreapp3.1\searchProject.pdb
